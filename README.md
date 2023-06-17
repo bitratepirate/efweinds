@@ -1,2 +1,1 @@
-# Desktop Buddies
-## デスクトップ仲間
+# Desktop Buddies • デスクトップ仲間
