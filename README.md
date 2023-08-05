@@ -13,4 +13,4 @@ Efweinds will be 100% safe and protected from unwanted parties reading user data
 
 ***README is NOT final***
 
-© 2023 bitratePirate
+© 2023, uberkey
